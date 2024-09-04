@@ -58,4 +58,6 @@ Jobbee API is a comprehensive backend system for managing job listings, applicat
 Helmet: Protects against well-known vulnerabilities.
 Rate Limiting: Prevents DDoS attacks.
 ```
-## 
+## 📄 License
+- **This project is licensed under the MIT License.
+
