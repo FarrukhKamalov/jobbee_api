@@ -47,7 +47,8 @@ Jobbee API is a comprehensive backend system for managing job listings, applicat
     npm start
     ```
 
-## 🧪 Running Tests
-To run tests, use:
-```bash
-npm test
+## 🔗 API Endpoints
+```plaintext
+/api/v1/jobs - CRUD operations for job listings
+/api/v1/auth - User registration and login
+```
