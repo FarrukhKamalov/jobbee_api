@@ -52,3 +52,10 @@ Jobbee API is a comprehensive backend system for managing job listings, applicat
 /api/v1/jobs - CRUD operations for job listings
 /api/v1/auth - User registration and login
 ```
+
+## 🛡️ Security
+```plaintext
+Helmet: Protects against well-known vulnerabilities.
+Rate Limiting: Prevents DDoS attacks.
+```
+## 
